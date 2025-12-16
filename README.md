@@ -18,15 +18,6 @@ I’m a BCA Student
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-4CAF50?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-Java
-
-Python
-
-HTML
-
-SQL
-
-Data Analytics
 
 🎯 Goal
 
