@@ -32,8 +32,7 @@
 
 ---
 
-## 📌 Areas of Interest
-- Software Development  
+## 📌 Areas of Interest  
 - Web Development  
 - Database Management  
 - Data Analytics & Visualization  
@@ -52,14 +51,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HetSiddhpuriya&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetSiddhpuriya&layout=compact" height="165"/>
 </p>
 
 ---
 
 ## 🎯 Career Goal
-To grow as a professional **Software Developer and Data Analyst** by working on real-world projects and continuously enhancing technical skills.
+To grow as a professional **Web Developer and Data Analyst** by working on real-world projects and continuously enhancing technical skills.
 
 ---
 
