@@ -1,22 +1,71 @@
-## Hi there 👋 | I'm Het Siddhpuriya
+<h1 align="center">Hi 👋, I'm Het Siddhpuriya</h1>
+<h3 align="center">BCA Student | Aspiring Software Developer & Data Analyst</h3>
 
-I’m a BCA Student
+---
 
-🎓 Bachelor of Computer Applications (BCA) student with a strong interest in software development and data analytics.
-💻 Skilled in Java, Python, HTML, SQL, and Data Analytics.
-📊 Passionate about building practical applications and working with data to solve real-world problems.
-🚀 Continuously learning new technologies and improving problem-solving skills.
+## 👨‍🎓 About Me
 
-🛠️ Skills
+🎓 Bachelor of Computer Applications (BCA) student with a strong interest in software development and data analytics.  
+💻 Skilled in Java, Python, HTML, SQL, and data analysis tools.  
+📊 Passionate about building practical applications and extracting insights from data.  
+🚀 Always learning and improving through projects and hands-on practice.
 
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-4CAF50?style=for-the-badge&logo=googleanalytics&logoColor=white)
+## 🎓 Education
 
+**Bachelor of Computer Applications (BCA)**  
+🏫 *Sutex Bank College of Computer Applications and Science*  
 
-🎯 Goal
+---
 
-To grow as a professional software developer and data analyst by working on meaningful projects and gaining real-world experience.
+## 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+</p>
+
+---
+
+## 📌 Areas of Interest
+- Software Development  
+- Web Development  
+- Database Management  
+- Data Analytics & Visualization  
+
+---
+
+## 📂 Projects
+- Academic and personal projects using Java, Python, and SQL  
+- Data analysis projects with Python libraries  
+- Web-based applications using HTML and backend logic  
+
+*(More projects coming soon 🚧)*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="165"/>
+</p>
+
+---
+
+## 🎯 Career Goal
+To grow as a professional **Software Developer and Data Analyst** by working on real-world projects and continuously enhancing technical skills.
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME  
+- Email: your-email@example.com  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
