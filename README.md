@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Het Siddhpuriya</h1>
-<h3 align="center">BCA Student | Aspiring Software Developer & Data Analyst</h3>
+<h3 align="center">BCA Student | Aspiring Web Devloper & Data Analyst</h3>
 
 ---
 
@@ -64,8 +64,8 @@ To grow as a professional **Software Developer and Data Analyst** by working on 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your-email@example.com  
+- GitHub: https://github.com/HetSiddhpuriya  
+- Email: hetsiddhpuriya0106@gmail.com  
 
 ---
 
