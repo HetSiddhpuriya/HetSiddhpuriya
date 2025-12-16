@@ -51,8 +51,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HetSiddhpuriya&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetSiddhpuriya&layout=compact" height="165"/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HetSiddhpuriya&layout=compact&theme=tokyonight)
 </p>
 
 ---
