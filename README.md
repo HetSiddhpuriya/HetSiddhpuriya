@@ -50,9 +50,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HetSiddhpuriya&layout=compact&theme=tokyonight)
-</p>
 
 ---
 
