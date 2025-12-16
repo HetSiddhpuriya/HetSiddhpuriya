@@ -14,8 +14,9 @@
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
-🏫 *Sutex Bank College of Computer Applications and Science*  
+| Degree | Institution | Field | Status |
+|------|-------------|-------|--------|
+| BCA (Bachelor of Computer Applications) | Sutex Bank College of Computer Applications and Science | Computer Applications | Pursuing |
 
 ---
 
