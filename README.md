@@ -50,7 +50,7 @@
 
 ## 📈 GitHub Stats
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HetSiddhpuriya&layout=compact&theme=tokyonight)
+ ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HetSiddhpuriya&layout=compact&theme=tokyonight)
 ---
 
 ## 🎯 Career Goal
