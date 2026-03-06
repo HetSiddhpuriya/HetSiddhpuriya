@@ -25,7 +25,7 @@ I am a **Bachelor of Computer Applications (BCA)** student at Sutex Bank College
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,mongodb,react,tailwind,figma,github" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,mongodb,react,tailwind,figma,github&theme=dark" />
   </a>
 </p>
 
@@ -33,12 +33,13 @@ I am a **Bachelor of Computer Applications (BCA)** student at Sutex Bank College
 
 ### 📊 GitHub Analytics
 
-
-   ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HetSiddhpuriya&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HetSiddhpuriya&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HetSiddhpuriya&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HetSiddhpuriya&theme=tokyonight&hide_border=true" />
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=HetSiddhpuriya&theme=tokyonight&area=true&hide_border=true" />
 </p>
 
 ---
@@ -64,5 +65,5 @@ I am a **Bachelor of Computer Applications (BCA)** student at Sutex Bank College
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=60&section=footer" />
 </p>
