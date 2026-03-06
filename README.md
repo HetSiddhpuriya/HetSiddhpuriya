@@ -22,22 +22,24 @@ I am a **Bachelor of Computer Applications (BCA)** student at Sutex Bank College
 ---
 
 ### 🛠️ Tech Stack & Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,mongodb,react,tailwind,pandas,numpy,figma,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,mongodb,react,tailwind,pandas,numpy,figma,github" />
   </a>
 </p>
 
 ---
 
-### 📊 Activity & Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HetSiddhpuriya&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
+### 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetSiddhpuriya&layout=compact&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HetSiddhpuriya&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HetSiddhpuriya&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,8 +59,11 @@ I am a **Bachelor of Computer Applications (BCA)** student at Sutex Bank College
 <p align="left">
 <a href="mailto:hetsiddhpuriya0106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/HetSiddhpuriya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
