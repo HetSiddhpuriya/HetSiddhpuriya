@@ -33,9 +33,9 @@ I am a **Bachelor of Computer Applications (BCA)** student at Sutex Bank College
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+
    ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HetSiddhpuriya&layout=compact&theme=tokyonight)
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HetSiddhpuriya&theme=tokyonight&hide_border=true" />
