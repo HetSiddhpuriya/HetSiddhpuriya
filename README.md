@@ -25,7 +25,7 @@ I am a **Bachelor of Computer Applications (BCA)** student at Sutex Bank College
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,mongodb,react,tailwind,pandas,numpy,figma,github" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,mongodb,react,tailwind,figma,github" />
   </a>
 </p>
 
