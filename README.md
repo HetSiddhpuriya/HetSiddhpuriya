@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Final%20Year%20BCA-blue?style=for-the-badge&logo=googlescholar" />
+  <img src="https://img.shields.io/badge/Status-Cyber%20Security%20Traniee-blue?style=for-the-badge&logo=googlescholar" />
   <img src="https://img.shields.io/badge/Focus-Software%20%26%20Data-green?style=for-the-badge&logo=databricks" />
   <img src="https://img.shields.io/github/followers/HetSiddhpuriya?label=Follow&style=for-the-badge&logo=github" />
 </p>
